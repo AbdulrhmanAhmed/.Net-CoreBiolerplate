@@ -1,0 +1,8 @@
+D:\Tasks\Abdelrahman-task\Abdelrahman-task.Core\bin\Debug\netstandard2.0\Abdelrahman-task.Core.deps.json
+D:\Tasks\Abdelrahman-task\Abdelrahman-task.Core\bin\Debug\netstandard2.0\Abdelrahman-task.Core.dll
+D:\Tasks\Abdelrahman-task\Abdelrahman-task.Core\bin\Debug\netstandard2.0\Abdelrahman-task.Core.pdb
+D:\Tasks\Abdelrahman-task\Abdelrahman-task.Core\obj\Debug\netstandard2.0\Abdelrahman-task.Core.csprojAssemblyReference.cache
+D:\Tasks\Abdelrahman-task\Abdelrahman-task.Core\obj\Debug\netstandard2.0\Abdelrahman-task.Core.AssemblyInfoInputs.cache
+D:\Tasks\Abdelrahman-task\Abdelrahman-task.Core\obj\Debug\netstandard2.0\Abdelrahman-task.Core.AssemblyInfo.cs
+D:\Tasks\Abdelrahman-task\Abdelrahman-task.Core\obj\Debug\netstandard2.0\Abdelrahman-task.Core.dll
+D:\Tasks\Abdelrahman-task\Abdelrahman-task.Core\obj\Debug\netstandard2.0\Abdelrahman-task.Core.pdb

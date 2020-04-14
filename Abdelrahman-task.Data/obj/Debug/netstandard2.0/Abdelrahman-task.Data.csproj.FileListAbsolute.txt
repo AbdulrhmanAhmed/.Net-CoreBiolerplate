@@ -1,0 +1,11 @@
+D:\Tasks\Abdelrahman-task\Abdelrahman-task.Data\bin\Debug\netstandard2.0\Abdelrahman-task.Data.deps.json
+D:\Tasks\Abdelrahman-task\Abdelrahman-task.Data\bin\Debug\netstandard2.0\Abdelrahman-task.Data.dll
+D:\Tasks\Abdelrahman-task\Abdelrahman-task.Data\bin\Debug\netstandard2.0\Abdelrahman-task.Data.pdb
+D:\Tasks\Abdelrahman-task\Abdelrahman-task.Data\bin\Debug\netstandard2.0\Abdelrahman-task.Core.dll
+D:\Tasks\Abdelrahman-task\Abdelrahman-task.Data\bin\Debug\netstandard2.0\Abdelrahman-task.Core.pdb
+D:\Tasks\Abdelrahman-task\Abdelrahman-task.Data\obj\Debug\netstandard2.0\Abdelrahman-task.Data.csprojAssemblyReference.cache
+D:\Tasks\Abdelrahman-task\Abdelrahman-task.Data\obj\Debug\netstandard2.0\Abdelrahman-task.Data.AssemblyInfoInputs.cache
+D:\Tasks\Abdelrahman-task\Abdelrahman-task.Data\obj\Debug\netstandard2.0\Abdelrahman-task.Data.AssemblyInfo.cs
+D:\Tasks\Abdelrahman-task\Abdelrahman-task.Data\obj\Debug\netstandard2.0\Abdelrahman-task.Data.csproj.CopyComplete
+D:\Tasks\Abdelrahman-task\Abdelrahman-task.Data\obj\Debug\netstandard2.0\Abdelrahman-task.Data.dll
+D:\Tasks\Abdelrahman-task\Abdelrahman-task.Data\obj\Debug\netstandard2.0\Abdelrahman-task.Data.pdb
